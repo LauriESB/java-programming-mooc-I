@@ -1,10 +1,8 @@
 # The first part of the course focus on:
 
-    1. Getting started with programming
-    2. Printing
-    3. Reading input
-    4. Variables
-    5. Calculating with numbers
-    6. Conditional statements and conditional operation
-    7. Programming in our society
+    1. Recurring problems and patterns to solve them
+    2. Repeating functionality
+    3. More loops
+    4. Methods and dividing the program into smaller parts
+    5. End questionnaire
 
