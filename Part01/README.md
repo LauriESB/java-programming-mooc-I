@@ -1,4 +1,4 @@
-# The first part of the course focus on:
+# The first part of the course focuses on:
 
     1. Getting started with programming
     2. Printing
