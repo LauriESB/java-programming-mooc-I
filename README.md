@@ -11,6 +11,6 @@
 
     Java Programming I (Part 1 to 7)
 
-    Java Programming II (Part 8 to Part 14) 
+    Java Programming II (Part 8 to 14) 
 
 
