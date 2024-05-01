@@ -1,7 +1,7 @@
 # University of Helsink's MOOCFI
 <div align="center">
 
-[![Study](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
+![Tools](https://skillicons.dev/icons?i=java,github)
 
 </div>
 
