@@ -12,6 +12,7 @@
 
 <br>
  
+> [!NOTE]
 > It's important to notice that the course has been split up in two individual courses:
 
 ```
