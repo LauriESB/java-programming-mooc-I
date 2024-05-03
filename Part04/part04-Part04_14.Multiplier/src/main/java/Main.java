@@ -5,7 +5,7 @@ public class Main {
         // Create a class Multiplier that has a:
         // Constructor public Multiplier(int number).
         // Method public int multiply(int number) which 
-        // returns the value number passed to it multiplied by the number provided to the constructor.
+        // returns the value number passed to it multiplied by the number provided to the constructor
 
 
         Multiplier multiplyByThree = new Multiplier(3);
