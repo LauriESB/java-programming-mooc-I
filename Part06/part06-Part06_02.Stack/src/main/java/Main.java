@@ -31,7 +31,7 @@ public class Main {
         st.add("4");
         st.add("5");
 
-        while (!s.isEmpty()) {
+        while (!st.isEmpty()) {
             System.out.println(st.take());
         }
     }
