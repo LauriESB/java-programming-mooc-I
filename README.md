@@ -30,7 +30,7 @@ Java Programming II (Part 8 to 14)
 <details>
     <summary align="left">Part 1.1</summary>
     <br>
-
+    
     1. Getting started with programming
     2. Printing
     3. Reading input
@@ -38,6 +38,8 @@ Java Programming II (Part 8 to 14)
     5. Calculating with numbers
     6. Conditional statements and conditional operation
     7. Programming in our society
+
+    total: theory + 37 exercises;
 </details>
 <br>
 
@@ -46,12 +48,13 @@ Java Programming II (Part 8 to 14)
     <summary align="left">Part 1.2</summary>
     <br>
 
-
     1. Recurring problems and patterns to solve them
     2. Repeating functionality
     3. More loops
     4. Methods and dividing the program into smaller parts
     5. End questionnaire
+
+    total: theory + 34 exercises;
 </details>
 <br>
 
@@ -65,6 +68,8 @@ Java Programming II (Part 8 to 14)
     3. Arrays
     4. Using strings
     5. Summary
+
+    total: theory + 32 exercises;
 </details>
 <br>
 
@@ -77,6 +82,8 @@ Java Programming II (Part 8 to 14)
     2. Objects in a list
     3. Files and reading data
     4. Summary
+
+    total: theory + 31 exercises;
 </details>
 <br>
 
@@ -90,6 +97,8 @@ Java Programming II (Part 8 to 14)
     3. Primitive and reference variables
     4. Objects and references
     5. Conclusion
+
+    total: theory + 17 exercises;
 </details>
 <br>
 
@@ -101,6 +110,8 @@ Java Programming II (Part 8 to 14)
     2. Separating the user interface from program logic
     3. Introduction to testing
     4. Complex programs
+
+    total: theory + 13 exercises;
 </details>
 <br>
 
@@ -113,6 +124,8 @@ Java Programming II (Part 8 to 14)
     2. Algorithms
     3. Larger programming exercises
     4. Conclusion
+
+    total: theory + 8 exercises;
 </details>
 
 
