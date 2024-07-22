@@ -1,4 +1,4 @@
-# Java Programming I | University of Helsink's MOOCFI
+# Java Programming I | University of Helsink's MOOC
 
 <br>
 
@@ -8,7 +8,7 @@
 
 </div>
 
-## this is one of the two repositories made to track my progress on University of Helsinki’s MOOCFI on Java Programming.
+## this is one of the two repositories made to track my progress on University of Helsinki’s MOOC on Java Programming.
 
 <br>
  
@@ -27,7 +27,7 @@ Java Programming II (Part 8 to 14)
 <br>
 
 <details>
-    <summary align="left">Part 1.1</summary>
+    <summary align="left">Part 01</summary>
     <br>
     
     1. Getting started with programming
@@ -43,7 +43,7 @@ Java Programming II (Part 8 to 14)
 <br>
 
 <details>
-    <summary align="left">Part 1.2</summary>
+    <summary align="left">Part 02</summary>
     <br>
 
     1. Recurring problems and patterns to solve them
@@ -57,7 +57,7 @@ Java Programming II (Part 8 to 14)
 <br>
 
 <details>
-    <summary align="left">Part 1.3</summary>
+    <summary align="left">Part 03</summary>
     <br>
 
     1. Discovering errors
@@ -71,7 +71,7 @@ Java Programming II (Part 8 to 14)
 <br>
 
 <details>
-    <summary align="left">Part 1.4</summary>
+    <summary align="left">Part 04</summary>
     <br>
 
     1. Introduction to object-oriented programming
@@ -85,7 +85,7 @@ Java Programming II (Part 8 to 14)
 
 
 <details>
-    <summary align="left">Part 1.5</summary>
+    <summary align="left">Part 05</summary>
     <br>
 
     1. Learning object-oriented programming
@@ -99,7 +99,7 @@ Java Programming II (Part 8 to 14)
 <br>
 
 <details>
-    <summary align="left">Part 1.6</summary>
+    <summary align="left">Part 06</summary>
     <br>
 
     1. Objects on a list and a list as part of an object
@@ -112,7 +112,7 @@ Java Programming II (Part 8 to 14)
 <br>
 
 <details>
-    <summary align="left">Part 1.7</summary>
+    <summary align="left">Part 07</summary>
     <br>
 
     1. Programming paradigms
