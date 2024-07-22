@@ -1,12 +1,12 @@
 # Java Programming I | University of Helsink's MOOCFI
 
 <br>
+
 <div align="center">
 
-![Tools](https://skillicons.dev/icons?i=java,github)
+ ![Tools](https://skillicons.dev/icons?i=java,github)
 
 </div>
-
 
 ## this is one of the two repositories made to track my progress on University of Helsinki’s MOOCFI on Java Programming.
 
@@ -20,7 +20,6 @@ Java Programming I (Part 1 to 7)
 
 Java Programming II (Part 8 to 14) 
 ```
-
 <br>
 
 ### here's a summary of how each section is structured and what is being addressed throughout the exercises.
@@ -43,7 +42,6 @@ Java Programming II (Part 8 to 14)
 </details>
 <br>
 
-
 <details>
     <summary align="left">Part 1.2</summary>
     <br>
@@ -58,7 +56,6 @@ Java Programming II (Part 8 to 14)
 </details>
 <br>
 
-
 <details>
     <summary align="left">Part 1.3</summary>
     <br>
@@ -72,7 +69,6 @@ Java Programming II (Part 8 to 14)
     total: theory + 32 exercises;
 </details>
 <br>
-
 
 <details>
     <summary align="left">Part 1.4</summary>
@@ -115,7 +111,6 @@ Java Programming II (Part 8 to 14)
 </details>
 <br>
 
-
 <details>
     <summary align="left">Part 1.7</summary>
     <br>
@@ -128,5 +123,8 @@ Java Programming II (Part 8 to 14)
     total: theory + 8 exercises;
 </details>
 
+<div align="center">
+ <img align="center" src="https://em-content.zobj.net/source/microsoft/309/ninja-cat_1f431-200d-1f464.png" alt="NetBeans Logo" width="30" height="auto">
+</div>
 
 
