@@ -8,12 +8,12 @@
 </div>
 
 
-## This is one of the two repositories made to track my progress on University of Helsinki’s MOOCFI on Java Programming.
+## this is one of the two repositories made to track my progress on University of Helsinki’s MOOCFI on Java Programming.
 
 <br>
  
-> [!NOTE]
-> It's important to notice that the course has been split up in two individual courses:
+> [!IMPORTANT]
+> the exercises are tested using their automatic testing service Test My Code + NetBeans. the course has been divided in two individual parts:
 
 ```
 Java Programming I (Part 1 to 7)
@@ -23,7 +23,7 @@ Java Programming II (Part 8 to 14)
 
 <br>
 
-### Here's a summary of how each section is structured and what is being addressed throughout the exercises.
+### here's a summary of how each section is structured and what is being addressed throughout the exercises.
 
 <br>
 
