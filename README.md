@@ -13,7 +13,7 @@
 <br>
  
 > [!IMPORTANT]
-> the exercises are tested using their automatic testing service Test My Code + NetBeans. the course has been divided in two individual parts:
+> the exercises are tested using their automatic testing service Test My Code + NetBeans. the course has been divided in two individual parts ([see part II here](https://github.com/LauriESB/java-programming-mooc-II)):
 
 ```
 Java Programming I (Part 1 to 7)
